@@ -1,0 +1,5 @@
+name: Bank
+version: ${project.version}
+main: io.github.zepelown.main.Main
+api-version: 1.13
+depend: [SmartInvs, Vault]
